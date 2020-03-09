@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppDI
 {
-<<<<<<< Updated upstream
     public class Units
     {
         public long KmToM(int Km)
@@ -14,7 +13,6 @@ namespace ConsoleAppDI
             return Km * 1000;
         }
     }
-=======
     interface IWorker
     {
         void DoWork();
@@ -78,5 +76,4 @@ namespace ConsoleAppDI
         //}
     }
 
->>>>>>> Stashed changes
 }
