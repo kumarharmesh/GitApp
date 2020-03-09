@@ -21,7 +21,6 @@ namespace GitApp
         {
             var r = new Random();
             return r.NextDouble();
-            //>>>>>>> Stashed changes
         }
         public string Number()
         {
