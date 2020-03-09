@@ -12,5 +12,9 @@ namespace GitApp
         {
             return s1 + s2;
         }
+        public string Upper(string s1)
+        {
+            return s1.ToUpper();
+        }
     }
 }
